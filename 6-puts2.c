@@ -2,7 +2,7 @@
 #include<string.h>
 
 /**
- * puts2 - print very other character in string.
+ * puts2 -> puts2 function.
  * @s: str parameter.
  *
  * Return: void.
